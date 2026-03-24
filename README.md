@@ -4,13 +4,9 @@ A real-time multiplayer Pong platform built as a Single Page Application, featur
 1. **Clone the repository**
 2. **Start production**: `make build && make up`
 3. **Access production**: `https://localhost`
-- Note: if you are having problems with missing dependencies, go to:
+- Note: if you are having problems with missing dependencies, type in the terminal:
 ```bash
-src/backend/  and  src/frontend/
-```
-and type in the terminal
-```bash
-npm install
+cd src/backend/ && npm install; cd ../src/frontend/ && npm install
 ```
 
 ### Components
