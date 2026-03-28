@@ -2,7 +2,7 @@
 A real-time multiplayer Pong platform built as a Single Page Application, featuring OAuth authentication, WebSocket-driven gameplay, and a fully containerized multi-service architecture.
 
 1. **Clone the repository**
-2. **Start production**: `make build && make up`
+2. **Start production**: `make up`
 3. **Access production**: `https://localhost`
 - Note: if you are having problems with missing dependencies, type in the terminal:
 ```bash
